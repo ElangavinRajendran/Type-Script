@@ -102,6 +102,11 @@ Each chapter contains:
 * Union Types
 * Literal Types
 
+ ### What I Practiced
+
+* Created number , String , Boolean , Any , Unknown , Void , Never , Type Inference , Union Types
+* Understand how those are explicitly working
+
 ---
 
 ## Chapter 3 — Array & objects
@@ -113,6 +118,13 @@ Each chapter contains:
 * How to type the array
 * How to Type the Ojects
 * Enum
+
+*  ### What I Practiced
+
+* Created a Types for an array and objects
+* Understand how they are working
+
+---
 
 # 🎯 Learning Goals
 
