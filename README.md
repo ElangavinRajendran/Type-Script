@@ -12,8 +12,8 @@ This repository contains my hands-on practice, notes, and mini-projects as I lea
 | :----: | :--------- | :------------------------------------ |
 |    ✅   | Chapter 1  | Start Here                            |
 |    ✅   | Chapter 2  | Basic Types                           |
-|    🚧   | Chapter 3  | Arrays & Objects                      |
-|    ⬜   | Chapter 4  | Functions                             |
+|    ✅   | Chapter 3  | Arrays & Objects                      |
+|    🚧   | Chapter 4  | Functions                             |
 |    ⬜   | Chapter 5  | Assertions                            |
 |    ⬜   | Chapter 6  | Classes                               |
 |    ⬜   | Chapter 7  | Index Signatures & `keyof` Assertions |
@@ -87,7 +87,7 @@ Each chapter contains:
 
 ## Chapter 2 — Basic Types
 
-**Status:** 🚧 In Progress
+**Status:** ✅ Completed
 
 ### Topics
 
@@ -103,6 +103,16 @@ Each chapter contains:
 * Literal Types
 
 ---
+
+## Chapter 3 — Array & objects
+
+**Status:** ✅ Completed
+
+### Topics
+
+* How to type the array
+* How to Type the Ojects
+* Enum
 
 # 🎯 Learning Goals
 
@@ -130,10 +140,10 @@ Each chapter contains:
 # 📈 Progress Tracker
 
 ```text
-████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  1 / 17 Chapters Completed
+████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  3 / 17 Chapters Completed
 ```
 
-*Current Progress:* **1 of 17 Chapters Completed** 🚀
+*Current Progress:* **3 of 17 Chapters Completed** 🚀
 
 ---
 
@@ -157,7 +167,7 @@ Thanks to the TypeScript community and course creators for providing excellent l
 
 ## 📅 Last Updated
 
-**Chapter 2 — Basic Types (In Progress)**
+**Chapter 4 — Functions (In Progress)**
 
 ---
 
