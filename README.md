@@ -11,8 +11,8 @@ This repository contains my hands-on practice, notes, and mini-projects as I lea
 | Status | Chapter    | Topic                                 |
 | :----: | :--------- | :------------------------------------ |
 |    ✅   | Chapter 1  | Start Here                            |
-|   🚧   | Chapter 2  | Basic Types                           |
-|    ⬜   | Chapter 3  | Arrays & Objects                      |
+|    ✅   | Chapter 2  | Basic Types                           |
+|    🚧   | Chapter 3  | Arrays & Objects                      |
 |    ⬜   | Chapter 4  | Functions                             |
 |    ⬜   | Chapter 5  | Assertions                            |
 |    ⬜   | Chapter 6  | Classes                               |
