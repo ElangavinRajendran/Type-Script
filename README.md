@@ -146,7 +146,7 @@ Each chapter contains:
 
 ---
 
-## Chapter 4 — Assertion
+## Chapter 5 — Assertion
 
 **Status:** ✅ Completed
 
