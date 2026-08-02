@@ -15,8 +15,8 @@ This repository contains my hands-on practice, notes, and mini-projects as I lea
 |    ✅   | Chapter 3  | Arrays & Objects                      |
 |    ✅   | Chapter 4  | Functions                             |
 |    ✅   | Chapter 5  | Assertions                            |
-|    🚧   | Chapter 6  | Classes                               |
-|    ⬜   | Chapter 7  | Index Signatures & `keyof` Assertions |
+|    ✅   | Chapter 6  | Classes                               |
+|    🚧   | Chapter 7  | Index Signatures & `keyof` Assertions |
 |    ⬜   | Chapter 8  | Generics                              |
 |    ⬜   | Chapter 9  | Utility Types                         |
 |    ⬜   | Chapter 10 | Vite.js + TypeScript                  |
@@ -164,6 +164,25 @@ Each chapter contains:
 
 ---
 
+## Chapter 6 — Classes
+
+**Status:** ✅ Completed
+
+### Topics
+
+* How can Type guard the constructor in class
+* Type guard Methods in Class
+* Add the methods in interface
+
+
+
+*  ### What I Practiced
+
+* Created a Types for an array and objects
+* Understand how they are working
+
+---
+
 
 
 # 🎯 Learning Goals
@@ -192,10 +211,10 @@ Each chapter contains:
 # 📈 Progress Tracker
 
 ```text
-████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  5 / 17 Chapters Completed
+████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  6 / 17 Chapters Completed
 ```
 
-*Current Progress:* **5 of 17 Chapters Completed** 🚀
+*Current Progress:* **6 of 17 Chapters Completed** 🚀
 
 ---
 
@@ -219,7 +238,7 @@ Thanks to the TypeScript community and course creators for providing excellent l
 
 ## 📅 Last Updated
 
-**Chapter 6 — Classes (In Progress)**
+**Chapter 7 — Index Signatures & `keyof` Assertions (In Progress)**
 
 ---
 
